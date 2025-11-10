@@ -1,0 +1,12 @@
+# Plantilla de variables de entorno para ConectorTranscripcionIA
+# Copia este archivo como .env y completa los valores
+
+# ID del contenedor Docker (formato: nombre:tag)
+# Ejemplo: mi-contenedor:latest
+Contenedor_id=
+
+# Ruta al ejecutable de Docker Desktop
+# Ejemplo Windows: C:\Program Files\Docker\Docker\Docker Desktop.exe
+# Ejemplo Linux/Mac: /usr/bin/docker
+Docker_path=
+
